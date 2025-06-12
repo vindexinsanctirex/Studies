@@ -241,4 +241,4 @@ To visualize the churn predictions in **Looker Studio** (formerly Google Data St
 
 ---
 
-Source: https://opsatscale.com/getting-started/BigQuery-ML-for-starters/?utm_source=chatgpt.com "BigQuery ML for Starters: A Guide to Machine Learning with BigQuery - OpsAtScale"
+Source: [https://opsatscale.com/getting-started/BigQuery-ML-for-starters/](https://opsatscale.com/getting-started/BigQuery-ML-for-starters/)
